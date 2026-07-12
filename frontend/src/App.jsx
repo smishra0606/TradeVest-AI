@@ -103,7 +103,7 @@ export default function App() {
     setError('');
 
     try {
-      const res = await fetch('https://tradevest-ai.onrender.com', {
+      const res = await fetch('https://tradevest-ai.onrender.com/api/research', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ companyName }),
