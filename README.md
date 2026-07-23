@@ -8,6 +8,7 @@
 ### Prerequisites
 - Node.js (v18+)
 - API Keys for Exa, OpenAI, and Google Gemini.
+- Basic understandingskills
 
 ### Setup Steps
 1. **Clone/Navigate to the project directory:**
